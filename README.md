@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import log1pmx from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pmx@deno/mod.js';
+import log1pmx from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pmx@v0.2.3-deno/mod.js';
 ```
 
 #### log1pmx( x )
@@ -78,7 +78,7 @@ v = log1pmx( NaN );
 
 ```javascript
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@deno/mod.js';
-import log1pmx from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pmx@deno/mod.js';
+import log1pmx from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pmx@v0.2.3-deno/mod.js';
 
 var x = incrspace( 0.0, 10.0, 0.01 );
 
