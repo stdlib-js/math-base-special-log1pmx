@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import log1pmx from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pmx@esm/index.mjs';
+import log1pmx from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pmx@v0.2.4-esm/index.mjs';
 ```
 
 #### log1pmx( x )
@@ -83,7 +83,7 @@ v = log1pmx( NaN );
 <script type="module">
 
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@esm/index.mjs';
-import log1pmx from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pmx@esm/index.mjs';
+import log1pmx from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pmx@v0.2.4-esm/index.mjs';
 
 var x = incrspace( 0.0, 10.0, 0.01 );
 
