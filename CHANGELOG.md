@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-06)
+## Unreleased (2026-08-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5a60395`](https://github.com/stdlib-js/stdlib/commit/5a60395ef8b02c1c81ae75e4c14bee78293c7263) - **test:** add native add-on tests to `math/base/special/log1pmx` [(#14010)](https://github.com/stdlib-js/stdlib/pull/14010) _(by Ujjwal Verma)_
 -   [`4d3ec88`](https://github.com/stdlib-js/stdlib/commit/4d3ec882657e189d00ba4797042acf95f160f772) - **test:** migrate `math/base/special/log1pmx` to ULP-based testing [(#13979)](https://github.com/stdlib-js/stdlib/pull/13979) _(by Ujjwal Verma)_
 -   [`b953edd`](https://github.com/stdlib-js/stdlib/commit/b953edd95d0ca1b521d0abbd2c2719d099ff7807) - **refactor:** use `constants/float64/nan` and clean-up [(#13585)](https://github.com/stdlib-js/stdlib/pull/13585) _(by Philipp Burckhardt)_
 -   [`1a2e90a`](https://github.com/stdlib-js/stdlib/commit/1a2e90a925bc6b2c347f452b7ec00ba4e42a9b3c) - **bench:** add missing native benchmark [(#13325)](https://github.com/stdlib-js/stdlib/pull/13325) _(by Philipp Burckhardt)_
